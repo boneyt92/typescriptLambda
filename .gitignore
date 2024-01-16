@@ -1,0 +1,4 @@
+events/
+dist/
+*.env
+node_modules/
